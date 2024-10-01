@@ -1,0 +1,13 @@
+streamlit
+pillow
+openai
+speechrecognition
+pyaudio
+gtts
+torch
+transformers
+stability_sdk
+numpy
+matplotlib
+scikit-learn
+
